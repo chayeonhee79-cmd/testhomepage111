@@ -21,7 +21,7 @@ window.SITE_CONTENT = {
     {id:'volunteer',number:'05',title:'자원봉사 참여',description:'VMS · 1365 자원봉사포털'},
     {id:'study',number:'06',title:'학업과 학생 지원',description:'교육과정 · 장학 · 교내 학습 지원'}
   ],
-  windows: {
+  sections: {
     about:{label:'ABOUT / SOCIAL WELFARE',title:'사람과 사회를 잇는 사회복지학',paragraphs:['사회복지는 사람의 삶과 사회환경을 함께 살펴보는 학문입니다. 개인과 가족, 지역사회의 문제를 이해하고 더 나은 삶을 위한 정책과 실천을 탐구합니다.','국립부경대학교에서는 학부 사회복지학전공, 일반대학원 사회복지학과(석사·박사), 글로벌정책대학원 사회복지학과(석사)를 구분해 안내합니다.'],links:[['공식 전공 소개','https://icms.pknu.ac.kr/ps1/6388'],['공식 학과 홈페이지','https://icms.pknu.ac.kr/ps1']]},
     undergraduate:{label:'01 / UNDERGRADUATE',title:'학부 · 사회복지학전공',paragraphs:['학부에서는 사회복지의 이론과 실천을 배우며 사람과 사회문제를 이해하는 기초를 다집니다. 정책, 행정, 실천, 조사와 현장실습 등 관련 교육과정을 공식 안내에서 살펴볼 수 있습니다.'],heading:'학부에서 살펴볼 정보',items:['전공 소개와 교육과정','사회복지사 자격 관련 이수과목과 현장실습 안내','졸업요건, 장학제도, 졸업 후 진로'],note:'입학 연도와 개인별 이수 내역에 따라 적용 기준이 달라질 수 있습니다. 교육과정과 졸업요건은 공식 안내를 확인하세요.',links:[['전공 소개','https://icms.pknu.ac.kr/ps1/6388'],['학부 교육과정','https://icms.pknu.ac.kr/ps1/6929'],['자격증 안내','https://icms.pknu.ac.kr/ps1/6487']]},
     graduate:{label:'02 / GRADUATE SCHOOL',title:'일반대학원 · 사회복지학과',paragraphs:['일반대학원 사회복지학과는 석사·박사과정으로 안내되어 있습니다. 사회복지 분야의 이론과 연구를 심화하고 정책과 실천에 관한 질문을 탐구하는 진학 경로입니다.'],heading:'진학 전에 확인하세요',items:['공식 학과 소개에 수록된 교육목표와 교육과정','해당 학기 모집요강과 지원 일정','지도교수 상담과 관심 연구 분야'],note:'지원 자격, 수업 운영, 학위 요건은 해당 학기의 공식 모집요강과 학과 안내를 기준으로 확인하세요.',links:[['일반대학원 학과 소개','https://icms.pknu.ac.kr/ps1/6927'],['학과 공식 홈페이지','https://icms.pknu.ac.kr/ps1']]},
